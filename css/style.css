@@ -1,4 +1,6 @@
-h1 {
+/* index */
+
+#head {
     background-color: hsl(0, 0%, 15%);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -6,8 +8,88 @@ h1 {
 }
 
 .rec {
-    background-color: #8080ff;
+    background-color: #80ff80;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
+}
+
+/* lasagna */
+
+#las {
+    background-color: #ffffb3;
+}
+
+.tit {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.des {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.para {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.int-ste {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* burger */
+
+#bur {
+    background-color: #333333;
+}
+
+.tit.b {
+    color: #ffffff;
+}
+
+.des.b {
+    color: white;
+}
+
+.para.burg {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.int-ste.bur {
+    color: #ffffff;
+}
+
+/* oats */
+
+#oat {
+    background-color: #7070db;
+}
+
+.tit.o {
+    color: #ffffff;
+}
+
+.des.o {
+    color: white;
+}
+
+.para.oat {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.int-ste.oats {
+    color: #ffffff;
 }
