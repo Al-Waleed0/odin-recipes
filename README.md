@@ -1,2 +1,1 @@
-# odin-recipes
-We will build basic recipe website to practice HTML knowledge.
+Basic recipe website to practice HTML and CSS knowledge.
